@@ -1,0 +1,58 @@
+{
+  "hash": "a808fafe",
+  "configHash": "594144ab",
+  "lockfileHash": "61d5451b",
+  "browserHash": "f76911f6",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.0.0/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "cdb3368f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@19.0.0_react@19.0.0/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7d17b12f",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/.pnpm/react-redux@9.2.0_@types+react@19.0.7_react@19.0.0_redux@5.0.1/node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "866e22ee",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/.pnpm/react-router@7.6.0_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "839a7073",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/.pnpm/@reduxjs+toolkit@2.5.0_react-redux@9.2.0_@types+react@19.0.7_react@19.0.0_redux@5.0.1__react@19.0.0/node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "6eb2a849",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit/query/react": {
+      "src": "../../node_modules/.pnpm/@reduxjs+toolkit@2.5.0_react-redux@9.2.0_@types+react@19.0.7_react@19.0.0_redux@5.0.1__react@19.0.0/node_modules/@reduxjs/toolkit/dist/query/react/rtk-query-react.modern.mjs",
+      "file": "@reduxjs_toolkit_query_react.js",
+      "fileHash": "587afcff",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-C5NBMNTS": {
+      "file": "chunk-C5NBMNTS.js"
+    },
+    "chunk-6FSDJCIE": {
+      "file": "chunk-6FSDJCIE.js"
+    },
+    "chunk-VM33BGDC": {
+      "file": "chunk-VM33BGDC.js"
+    },
+    "chunk-EQCVQC35": {
+      "file": "chunk-EQCVQC35.js"
+    }
+  }
+}
